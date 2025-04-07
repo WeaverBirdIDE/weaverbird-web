@@ -1,0 +1,14 @@
+License Agreement
+
+Copyright (c) 2025 [Your Name]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to download, use, and redistribute the Software in unmodified form, subject to the following conditions:
+
+1. No Modification:
+   Modification, reverse engineering, decompilation, or creation of derivative works based on the Software is strictly prohibited.
+
+2. Redistribution:
+   Redistribution of the Software is permitted only if it remains unmodified and includes this license in full.
+
+3. No Warranty:
+   The Software is provided "as is", without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the authors be liable for any claim, damages, or other liability.
