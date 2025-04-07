@@ -47,4 +47,4 @@ This is a one-man project for now.
 ## 📬 Contact
 
 For any inquiries, contact:  
-📧 your-email@example.com
+📧 shalomaskvd@gmail.com
