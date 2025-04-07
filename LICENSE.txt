@@ -1,6 +1,6 @@
 License Agreement
 
-Copyright (c) 2025 [Your Name]
+Copyright (c) 2025 Shalom Agbongo
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to download, use, and redistribute the Software in unmodified form, subject to the following conditions:
 
